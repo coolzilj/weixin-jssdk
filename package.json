@@ -1,0 +1,27 @@
+{
+  "name": "weixin-jssdk",
+  "version": "0.0.0",
+  "description": "微信 JS-SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:coolzilj/weixin-jssdk.git"
+  },
+  "keywords": [
+    "微信",
+    "JSSDK"
+  ],
+  "author": "Jin Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coolzilj/weixin-jssdk/issues"
+  },
+  "homepage": "https://github.com/coolzilj/weixin-jssdk",
+  "dependencies": {
+    "jssha": "^1.5.0",
+    "superagent": "^0.21.0"
+  }
+}
